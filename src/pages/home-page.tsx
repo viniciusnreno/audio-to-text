@@ -29,7 +29,7 @@ const HomePage = () => {
 
       try {
         const res = await axios.post(
-          "https://api.openai.com/v1/audio/transcriptions",
+          "https://api.openai.com/v1/audio/transcriptions ",
           formData,
           {
             headers: {
