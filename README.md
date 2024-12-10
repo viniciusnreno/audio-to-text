@@ -34,11 +34,13 @@ Este projeto é uma aplicação frontend que converte arquivos de áudio em text
    npm install
    ```
 4. Configure a variável de ambiente para a API Key da OpenAI:
+
    - Crie um arquivo `.env` na raiz do projeto com o seguinte conteúdo:
      ```
      VITE_OPENAI_API_KEY=YOUR_API_KEY
      ```
      Substitua `YOUR_API_KEY` pela sua chave da OpenAI.
+
 5. Execute o servidor de desenvolvimento:
    ```bash
    npm run dev
@@ -47,11 +49,15 @@ Este projeto é uma aplicação frontend que converte arquivos de áudio em text
 
 ## 🌐 Link Hospedado
 
-Acesse a versão online do projeto: **(adicione o link caso publicado)**
+Acesse a versão online do projeto: [https://audiotranscriber.vercel.app/](https://audiotranscriber.vercel.app/)
 
 ## 🌟 Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias ou correções.
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ---
 
