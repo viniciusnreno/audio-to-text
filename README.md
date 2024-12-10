@@ -10,7 +10,6 @@ Este projeto é uma aplicação frontend que converte arquivos de áudio em text
 - **[TailwindCSS](https://tailwindcss.com/)**: Framework CSS para estilização moderna.
 - **[ShadCN UI](https://shadcn.dev/)**: Biblioteca para componentes UI acessíveis e elegantes.
 - **[OpenAI Whisper API](https://platform.openai.com/)**: API de transcrição de áudio baseada em inteligência artificial.
-- **Git**: Controle de versão para desenvolvimento colaborativo.
 
 ## 📝 Funcionalidades
 
